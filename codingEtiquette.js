@@ -14,15 +14,16 @@
 //* Running code (where you run your functions)
 //* Exports (if any)
 //* [bottom of file]
-//*
-//*
-//*
+
+///////////////////////////////////////////////////////
+
 //* Do
 //* Comment your work and name your functions and
 //* variables so other programmers know what you
 //* are trying to achieve
-
+//*
 //* retreives a list of users from a database of users
+//* from company credentials
 const db = dbCon(username, password, conString)
 
 ///////////////////////////////////////////////////////
